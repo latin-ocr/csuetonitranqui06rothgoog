@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./csuetonitranqui06rothgoog_0433.png"; bbox 0 0 2553 3960; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 854 1141 1586 1277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 854 1141 1586 1277">
+     <span class='ocr_line' id='line_1_1' title="bbox 854 1141 1586 1277; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 854 1141 1586 1277; x_wconf 87' lang='lat' dir='ltr'><strong>INDEX-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 192 1614 2186 1721">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 192 1614 2186 1721">
+     <span class='ocr_line' id='line_1_2' title="bbox 192 1614 2186 1721; baseline -0.002 -7"><span class='ocrx_word' id='word_1_2' title='bbox 192 1615 989 1714; x_wconf 89' lang='lat' dir='ltr'>NOMINUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1066 1614 2186 1721; x_wconf 81' lang='lat' dir='ltr'>PROPRIORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 433 2051 1944 2136">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 433 2051 1944 2136">
+     <span class='ocr_line' id='line_1_3' title="bbox 433 2051 1944 2136; baseline -0.001 -11"><span class='ocrx_word' id='word_1_4' title='bbox 433 2056 826 2126; x_wconf 85' lang='lat' dir='ltr'>HISTORIGUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 842 2108 856 2136; x_wconf 91' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 888 2051 1417 2125; x_wconf 79' lang='lat' dir='ltr'><strong>GEOGRAPHICUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1431 2108 1445 2135; x_wconf 90' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1475 2059 1944 2128; x_wconf 85' lang='lat' dir='ltr'><strong>LITTERARIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
